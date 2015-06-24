@@ -18,6 +18,7 @@ int main()
    sub[c] = '\0';
  
    printf("Required substring is \"%s\"\n", sub);
+printf("Required substring is \"%s\"\n", sub);
  
    return 0;
 }
